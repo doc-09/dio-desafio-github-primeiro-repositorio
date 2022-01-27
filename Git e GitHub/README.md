@@ -57,7 +57,7 @@
 | `git log --oneline`                        | View changes (briefly)         |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
-[Basic Syntax Markdown](Basic Syntax | Markdown Guide](https://www.markdownguide.org/basic-syntax)
+[Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax)
 
 [Basic Git Commands](https://www.hostinger.com/tutorials/basic-git-commands)
 
