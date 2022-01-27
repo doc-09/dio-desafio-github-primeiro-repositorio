@@ -38,7 +38,7 @@
 ### Sharing & Updating Projects :inbox_tray: :outbox_tray:
 
 | **Command**                                                                       | **Description**                                             |
-| --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+|:--------------------------------------------------------------------------------- |:----------------------------------------------------------- |
 | `git push origin [branch name]`                                                   | Push a branch to your remote repository                     |
 | `git push -u origin [branch name]`                                                | Push changes to remote repository (and remember the branch) |
 | `git push`                                                                        | Push changes to remote repository (remembered branch)       |
@@ -51,11 +51,15 @@
 ### Inspection & Comparison :mag:
 
 | **Command**                                | **Description**                |
-| ------------------------------------------ | ------------------------------ |
+|:------------------------------------------ |:------------------------------ |
 | `git log`                                  | View changes                   |
 | `git log --summary`                        | View changes (detailed)        |
 | `git log --oneline`                        | View changes (briefly)         |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
+
+### Reference
+
+
 
 [Basic Syntax Markdown](https://www.markdownguide.org/basic-syntax)
 
